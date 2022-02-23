@@ -105,7 +105,7 @@ tgbot.command('donate', ctx => { // Donate Command
   ctx.replyWithMarkdown('Thank you for showing intrest in donating! \nYou can donate me using following methods 👇\n\n*UPI Address*: `siddiquiaffan201@okaxis` \n\nOr you can use following links.',
   {disable_web_page_preview: true,
    reply_markup:{
-     inline_keyboard: [[{text: 'Ko-fi', url: 'https://ko-fi.com/affanthebest'}, {text: 'Paypal', url: 'https://paypal.me/affanthebest'}]]
+     inline_keyboard: [[{text: 'Ko-fi', url: 'https://wa.me/6285728808950'}, {text: 'Paypal', url: 'https://wa.me/6285728808950'}]]
   }})
 });
 const restart = async (ctx) => {
